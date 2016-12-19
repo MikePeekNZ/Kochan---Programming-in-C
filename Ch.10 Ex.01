@@ -1,6 +1,6 @@
 // Function to concatenate two character arrays
 
-#include <stdio.>
+#include <stdio.h>
 
 void concat(char result[], const char str1[], int n1,
                  const  char  str2[], int n2)
